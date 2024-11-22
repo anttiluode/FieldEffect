@@ -1,5 +1,7 @@
 # Field-Enhanced Neural Network (FENN) vs. Standard Neural Network Comparison
 
+![Results](results.png) 
+
 ## Overview
 
 This application demonstrates the Field-Enhanced Neural Network (FENN) and compares its performance against a Standard Neural Network (SNN)
