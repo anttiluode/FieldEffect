@@ -1,6 +1,6 @@
 # Field-Enhanced Neural Network (FENN) vs. Standard Neural Network Comparison
 
-![Results](results.png) 
+![Results](results.png)
 
 ## Overview
 
