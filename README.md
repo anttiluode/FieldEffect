@@ -53,6 +53,16 @@ Field Magnitude & Phase: Visual representations of the field parameters in the f
 Field Effect: Illustration of how the field influences the network's output.
 Relative Improvement: A plot highlighting the percentage improvement of FENN over SNN across epochs.
 
+# Conversation
+
+I have been thinking about the field effect on the brain for a while now. Fractals etc. This was just a test 
+I decided to do what would happen if a normal nn was given a synthetic field. I guess on one hand it gives it 
+a extra dimension which could partly explain things. Things get real interesting when we start thinking about 
+brain with its delicate neurons / field / phases.
+
+Truth to be told. I am just a layman, wiht braindamage to boot. So take this with grain of sand, coding was 
+by Claude. But if there is somethign to this, I guess it would make sense to add synthetic field effect to AI. 
+
 # License
 
 This project is licensed under the MIT License.
